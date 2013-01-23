@@ -2,6 +2,6 @@
 ---
 [
   {% for post in site.posts %}
-    {% include post.clj %},
+    {% include post.clj %}
   {% endfor %}
 ]
