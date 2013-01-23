@@ -2,6 +2,7 @@
 layout: post
 category : lessons
 tags : [intro, beginner, jekyll, tutorial]
+title: This is a test title with "apostrophe"
 ---
 {% include JB/setup %}
 
